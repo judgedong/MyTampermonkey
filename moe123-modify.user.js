@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         改一下主页moe123.net
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/judgedong/MyTampermonkey
 // @version      0.1
 // @icon         http://www.moe123.net/favicon.ico
 // @author       You
